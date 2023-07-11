@@ -3,7 +3,7 @@
 
 ## Solution
 
-### 1st
+### 1st Solution
 [1st Solution Link](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/discussion/274970)
 
 [1st Solution Youtube Explain](https://www.youtube.com/watch?v=0WLkxkc36Hk)
