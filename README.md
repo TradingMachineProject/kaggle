@@ -1,5 +1,5 @@
 # Kaggle : Optiver Realized Volatility Prediction
-[대회 링크] (https://www.kaggle.com/competitions/optiver-realized-volatility-prediction)  
+[대회 링크](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction)  
 
 ## Solution
 
